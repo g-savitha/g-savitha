@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 
 📊 **Weekly development breakdown**
 
-<img src="https://github.com/g-savitha/g-savitha/blob/master/images/stat.svg" alt="Savitha wakatime activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
