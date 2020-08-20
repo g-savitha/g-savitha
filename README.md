@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Green tea over coffee anyday. ✌**
 
+<img src="https://github.com/g-savitha/g-savitha/blob/master/images/stat.svg" alt="Savitha wakatime activity"/>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
