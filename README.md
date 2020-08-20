@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there👋, this is Savitha</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, this is Savitha</h2>
+<h3 align="center">A Fullstack developer from India.</h3>
 <p align="center"> 
 <a href="https://codepen.io/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gsavitha" height="30" width="30" /></a>
 <a href="https://dev.to/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsavitha" height="30" width="30" /></a>
