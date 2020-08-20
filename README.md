@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there👋, this is Savitha</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 <p align="center"> 
 <a href="https://codepen.io/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gsavitha" height="30" width="30" /></a>
 <a href="https://dev.to/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsavitha" height="30" width="30" /></a>
