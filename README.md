@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there👋, this is Savitha</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
+<p align="center"> 
+<a href="https://codepen.io/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gsavitha" height="30" width="30" /></a>
+<a href="https://dev.to/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsavitha" height="30" width="30" /></a>
+<a href="https://twitter.com/gsavitha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsavitha_" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/g-savitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="g-savitha" height="30" width="30" /></a>
+<a href="https://instagram.com/thecuriousilluminati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecuriousilluminati" height="30" width="30" /></a>
+<a href="https://medium.com/@gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gsavitha" height="30" width="30" /></a>
+</p>
+
 
 - 🌱 I’m currently learning : **React**
 
@@ -23,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about : **C, Java, Python, JS, react, node and DSA**
 
-- 📫 How to reach me : **savitha.gollamudi@gmail.com**
+<!-- - 📫 Reach me at : **savitha.gollamudi@gmail.com** -->
 
 - 😄 Pronouns: **Savvy**
 
@@ -37,11 +46,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-savitha&show_icons=true" alt="g-savitha" /></p>
 
-<p align="center"> 
-<a href="https://codepen.io/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gsavitha" height="30" width="30" /></a>
-<a href="https://dev.to/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsavitha" height="30" width="30" /></a>
-<a href="https://twitter.com/gsavitha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsavitha_" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/g-savitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="g-savitha" height="30" width="30" /></a>
-<a href="https://instagram.com/thecuriousilluminati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecuriousilluminati" height="30" width="30" /></a>
-<a href="https://medium.com/@gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gsavitha" height="30" width="30" /></a>
-</p>
