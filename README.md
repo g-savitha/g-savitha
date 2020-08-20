@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **g-savitha/g-savitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Savitha</h1>
+<h1 align="center">Hey there👋, this is Savitha</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
 - 🌱 I’m currently learning : **React**
