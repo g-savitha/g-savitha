@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML       4 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.90 % 
-YAML       3 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Markdown   1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-SCSS       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-TOML       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+HTML       4 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
+YAML       3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Markdown   2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+TOML       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+SCSS       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 <!--END_SECTION:waka-->
 
