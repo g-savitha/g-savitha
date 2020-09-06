@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">I'm interested in full stack development and cloud computing</h3>
 <p align="center"> 
 <a href="https://codepen.io/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gsavitha" height="30" width="30" /></a>
-<a href="https://dev.to/gsavitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gsavitha" height="30" width="30" /></a>
 <a href="https://twitter.com/gsavitha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gsavitha_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/g-savitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="g-savitha" height="30" width="30" /></a>
 </p>
@@ -29,11 +28,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in)
 
-- 📝 I regulary write articles on [https://www.gsavitha.in](https://www.gsavitha.in)
+- 📝 I regulary write articles at [https://www.gsavitha.in](https://www.gsavitha.in)
 
 - 💬 Ask me about : **C, Java, Python, JS, react, node and DSA**
 
- - 📫 How ro reach me : [gsavitha_](https://twitter.com/gsavitha_) at twitter
+ - 📫 Reach me at : [gsavitha_](https://twitter.com/gsavitha_) at twitter
 
 - 😄 Pronouns: **Savvy**
 
