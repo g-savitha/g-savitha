@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 
 **About me:**
 
-- 🌱 I’m currently learning : **React**
+- 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+- 🌱 I’m currently learning : **Node**
 
 - 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in)
 
 - 📝 I regulary write articles at [https://www.gsavitha.in](https://www.gsavitha.in)
 
-- 💬 Ask me about : **C, Java, Python, JS, react, node and DSA**
+- 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA**
 
  - 📫 Reach me at : [gsavitha_](https://twitter.com/gsavitha_) at twitter
 
