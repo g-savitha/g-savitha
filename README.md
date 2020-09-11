@@ -67,6 +67,8 @@ Git Config   2 mins          ▒░░░░░░░░░░░░░░░░
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
+- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 
