@@ -73,8 +73,9 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 :blue_book: **Recent Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Git : Sync forked repo with original repo](https://dev.to/gsavitha/sync-forked-repo-with-original-repo-git-49lo)
 - [Syncing Git Fork with Original Repository](https://www.gsavitha.in/2020/syncing-git-fork-with-original-repository/)
+- [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
+- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 
