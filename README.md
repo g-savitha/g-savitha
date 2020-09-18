@@ -3,10 +3,10 @@
 <h3 align="center">I'm interested in full stack development and cloud computing</h3>-->
 
 <p align="center">
-<a href="https://www.gsavitha.in"><img src="https://img.shields.io/badge/-gsavitha.in-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/g-savitha"><img src="https://img.shields.io/badge/-Savitha%20Gollamudi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mailto@gsavitha.in"><img src="https://img.shields.io/badge/-mailto@gsavitha.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/gsavitha_"><img src= "https://img.shields.io/badge/-gsavitha_-1769FF?style=flat-square&logo=Twitter&logoColor=white" /> </a>
+<a href="https://www.gsavitha.in"><img src="https://img.shields.io/badge/-Blog%20and%20Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/g-savitha"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mailto@gsavitha.in"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/gsavitha_"><img src= "https://img.shields.io/badge/-Twitter-1769FF?style=flat-square&logo=Twitter&logoColor=white" /> </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-savitha" alt="g-savitha" /> </p>
