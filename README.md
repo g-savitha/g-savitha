@@ -2,13 +2,20 @@
 <!--<h2 align="center">Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, this is Savitha</h2>
 <h3 align="center">I'm interested in full stack development and cloud computing</h3>-->
 
+<p align="center">
+<a href="https://www.gsavitha.in"><img src="https://img.shields.io/badge/-gsavitha.in-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/g-savitha"><img src="https://img.shields.io/badge/-Savitha%20Gollamudi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mailto@gsavitha.in"><img src="https://img.shields.io/badge/-mailto@gsavitha.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/gsavitha_"><img src= "https://img.shields.io/badge/-gsavitha_-1769FF?style=flat-square&logo=Twitter&logoColor=white" /> </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-savitha" alt="g-savitha" /> </p>
 
 <p align=center><a href="https://github.com/g-savitha"><img src="https://i.imgur.com/IsuPxQn.png?" /></a></p>
 
 ### 👩‍💻 &nbsp;About Me
 
-<p align=center><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/StH8XoZ.png" title="source: imgur.com"  /></a></p>
+<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/StH8XoZ.png" title="source: imgur.com"  /></a></p>
 
 <!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - 🌱 I’m currently learning : **Node**
@@ -19,25 +26,16 @@
 - 😄 Pronouns: **Savvy**
 - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.gsavitha.in"><img src="https://img.shields.io/badge/-gsavitha.in-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/g-savitha"><img src="https://img.shields.io/badge/-Savitha%20Gollamudi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mailto@gsavitha.in"><img src="https://img.shields.io/badge/-mailto@gsavitha.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/gsavitha_"><img src= "https://img.shields.io/badge/-gsavitha_-1769FF?style=flat-square&logo=Twitter&logoColor=white" /> </a>
-</p>
-
 
 ### 📊 &nbsp; My Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 36 mins   ███████████████▒░░░░░░░░░   61.77 % 
-Markdown     1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 % 
-HTML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JavaScript   6 hrs 28 mins   █████████████████▒░░░░░░░   68.95 % 
+Markdown     1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+HTML         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
