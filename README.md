@@ -27,19 +27,6 @@
 - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 
 
-### 📊 &nbsp; My Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   4 hrs 36 mins   ███████████████▒░░░░░░░░░   61.77 % 
-Markdown     1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 % 
-HTML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
-<!--END_SECTION:waka-->
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -67,7 +54,20 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-<!--trophies-->
+
+
+### 📊 &nbsp; My Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   4 hrs 36 mins   ███████████████▒░░░░░░░░░   61.77 % 
+Markdown     1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 % 
+HTML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+<!--END_SECTION:waka-->
+
 
 ### :blue_book: Recent Blog Posts
 
@@ -77,13 +77,6 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 - [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-<!--**Github Trophies:**-->
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=g-savitha)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-<!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-savitha&layout=compact&hide=html" alt="g-savitha" /></p> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
