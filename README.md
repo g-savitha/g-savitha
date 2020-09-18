@@ -69,6 +69,16 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <!--trophies-->
 
+### :blue_book: Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Syncing Git Fork with Original Repository](https://www.gsavitha.in/2020/syncing-git-fork-with-original-repository/)
+- [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
+- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <!--**Github Trophies:**-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=g-savitha)](https://github.com/ryo-ma/github-profile-trophy)-->
@@ -77,22 +87,14 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/g-savitha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=g-savitha&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=g-savitha&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
----
 
-### :blue_book: Recent Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Syncing Git Fork with Original Repository](https://www.gsavitha.in/2020/syncing-git-fork-with-original-repository/)
-- [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
-- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
-<!-- BLOG-POST-LIST:END -->
 
 
 
