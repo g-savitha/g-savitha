@@ -15,7 +15,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/StH8XoZ.png" title="source: imgur.com"  /></a></p>
+<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/i8g4w4n.png" title="source: imgur.com"  /></a></p>
 
 <!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - 🌱 I’m currently learning : **Node**
