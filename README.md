@@ -11,11 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-savitha" alt="g-savitha" /> </p>
 
-<p align=center><a href="https://github.com/g-savitha"><img src="https://i.imgur.com/IsuPxQn.png?" /></a></p>
+<p align=center><a href="https://github.com/g-savitha"><img src="https://i.imgur.com/IsuPxQn.png?" alt="banner"/></a></p>
 
 ### 👩‍💻 &nbsp;About Me
 
-<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/i8g4w4n.png" title="source: imgur.com"  /></a></p>
+<!--<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/i8g4w4n.png" title="https://www.gsavitha.in"  /></a></p>-->
+<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/3NF2wv3.png" title="https://www.gsavitha.in"  alt="about"/></a></p>
+
 
 <!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - 🌱 I’m currently learning : **Node**
