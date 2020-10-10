@@ -62,8 +62,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 19 mins    ██████████████████████▓░░   90.92 % 
-Other        7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
