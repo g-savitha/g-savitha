@@ -62,7 +62,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby       27 mins         ███████████▓░░░░░░░░░░░░░   46.22 % 
+YAML       19 mins         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+Other      10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 <!--END_SECTION:waka-->
 
