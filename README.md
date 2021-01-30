@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-savitha" alt="g-savitha" /> </p>
 
-<p align=center><a href="https://github.com/g-savitha"><img src="https://i.imgur.com/IsuPxQn.png?" alt="banner"/></a></p>
+<!--<p align=center><a href="https://github.com/g-savitha"><img src="https://i.imgur.com/IsuPxQn.png?" alt="banner"/></a></p>-->
 
 ### 👩‍💻 &nbsp;About Me
 
