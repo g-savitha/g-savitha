@@ -74,6 +74,7 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF is super() vs super(props)](https://www.gsavitha.in/2021/wtf-is-super-vs-superprops/)
 - [Hosting react projects on GH Pages](https://www.gsavitha.in/2020/hosting-react-projects-on-gh-pages/)
 - [Syncing Git Fork with Original Repository](https://www.gsavitha.in/2020/syncing-git-fork-with-original-repository/)
 - [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
