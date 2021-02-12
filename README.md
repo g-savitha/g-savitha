@@ -74,11 +74,11 @@ YAML       9 mins          ▓░░░░░░░░░░░░░░░░�
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is super() vs super(props)](https://www.gsavitha.in/2021/wtf-is-super-vs-superprops/)
-- [Hosting react projects on GH Pages](https://www.gsavitha.in/2020/hosting-react-projects-on-gh-pages/)
-- [Syncing Git Fork with Original Repository](https://www.gsavitha.in/2020/syncing-git-fork-with-original-repository/)
-- [React State Patterns](https://www.gsavitha.in/2020/react-state-patterns/)
-- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/2020/build-your-own-website-in-10-min-with-hugo/)
+- [super() vs super(props)](https://www.gsavitha.in/posts/super-vs-super-props/)
+- [Hosting react projects on GH Pages](https://www.gsavitha.in/posts/host-react-on-gh-pages/)
+- [Syncing Git Fork with Original Repository](https://www.gsavitha.in/posts/sync-fork-with-original-git/)
+- [React State Patterns](https://www.gsavitha.in/posts/react-state-patterns/)
+- [Build your own website in 10 min! with hugo](https://www.gsavitha.in/posts/build-your-own-site/)
 <!-- BLOG-POST-LIST:END -->
 
 
