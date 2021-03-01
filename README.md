@@ -74,11 +74,11 @@ TOML         1 min           ░░░░░░░░░░░░░░░░░
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write base cases](https://www.gsavitha.in/posts/recursion-base-cases/)
 - [Recursion Simplified](https://www.gsavitha.in/posts/recursion-simplified/)
 - [super() vs super(props)](https://www.gsavitha.in/posts/super-vs-super-props/)
 - [Event Handling in JS](https://www.gsavitha.in/posts/event-handling-in-js/)
 - [Hosting react projects on GH Pages](https://www.gsavitha.in/posts/host-react-on-gh-pages/)
-- [Syncing Git Fork with Original Repository](https://www.gsavitha.in/posts/sync-fork-with-original-git/)
 <!-- BLOG-POST-LIST:END -->
 
 
