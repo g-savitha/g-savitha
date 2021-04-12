@@ -74,11 +74,11 @@ JSON         19 mins         █▒░░░░░░░░░░░░░░░
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove All Your Facebook Likes](https://www.gsavitha.in/posts/remove-all-facebook-likes/)
 - [What is Micro Frontends?](https://www.gsavitha.in/posts/micro-frontends/)
 - [How to write base cases](https://www.gsavitha.in/posts/recursion-base-cases/)
 - [Recursion Simplified](https://www.gsavitha.in/posts/recursion-simplified/)
 - [super() vs super(props)](https://www.gsavitha.in/posts/super-vs-super-props/)
-- [Event Handling in JS](https://www.gsavitha.in/posts/event-handling-in-js/)
 <!-- BLOG-POST-LIST:END -->
 
 
