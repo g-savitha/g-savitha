@@ -74,11 +74,11 @@ TypeScript   46 mins         █▒░░░░░░░░░░░░░░░
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove All Your Facebook Likes](https://www.gsavitha.in/posts/remove-all-facebook-likes/)
-- [What is Micro Frontends?](https://www.gsavitha.in/posts/micro-frontends/)
-- [How to write base cases](https://www.gsavitha.in/posts/recursion-base-cases/)
-- [Recursion Simplified](https://www.gsavitha.in/posts/recursion-simplified/)
-- [super() vs super(props)](https://www.gsavitha.in/posts/super-vs-super-props/)
+- [React Fundamentals: Intro to Raw React APIs](https://www.gsavitha.in/posts/intro-to-raw-react-apis/)
+- [Async and Await](https://www.gsavitha.in/posts/async-await/)
+- [Asynchronous Code in Javascript](https://www.gsavitha.in/posts/async-code-in-js/)
+- [Promises Explained](https://www.gsavitha.in/posts/promises-explained/)
+- [JS fundamentals for React](https://www.gsavitha.in/posts/js-fundamentals-for-react/)
 <!-- BLOG-POST-LIST:END -->
 
 
