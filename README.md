@@ -74,11 +74,11 @@ TypeScript   32 mins         ██░░░░░░░░░░░░░░░
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Fundamentals: Understanding JSX](https://www.gsavitha.in/posts/understanding-jsx/)
 - [React Fundamentals: Intro to Raw React APIs](https://www.gsavitha.in/posts/intro-to-raw-react-apis/)
 - [Async and Await](https://www.gsavitha.in/posts/async-await/)
 - [Asynchronous Code in Javascript](https://www.gsavitha.in/posts/async-code-in-js/)
 - [Promises Explained](https://www.gsavitha.in/posts/promises-explained/)
-- [JS fundamentals for React](https://www.gsavitha.in/posts/js-fundamentals-for-react/)
 <!-- BLOG-POST-LIST:END -->
 
 
