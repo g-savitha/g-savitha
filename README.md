@@ -62,10 +62,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TOML       22 mins         █████████▒░░░░░░░░░░░░░░░   37.18 % 
-SCSS       18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
-Other      15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
-CSS        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
