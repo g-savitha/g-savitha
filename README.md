@@ -62,8 +62,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON       10 mins         ██████████████████▓░░░░░░   74.22 % 
-C++        3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+
 ```
 <!--END_SECTION:waka-->
 
