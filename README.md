@@ -58,15 +58,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-### 📊 &nbsp; My Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
-
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
