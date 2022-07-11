@@ -28,7 +28,7 @@
 - 😄 Pronouns: **Savvy**
 - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 
-
+<!--
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -56,6 +56,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+-->
 
 
 ### :blue_book: Recent Blog Posts
