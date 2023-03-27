@@ -15,18 +15,16 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-<!--<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/i8g4w4n.png" title="https://www.gsavitha.in"  /></a></p>-->
-<p align=left><a href="https://www.gsavitha.in"><img src="https://i.imgur.com/3NF2wv3.png" title="https://www.gsavitha.in"  alt="about"/></a></p>
 
 
-<!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-- 🌱 I’m currently learning : **Node**
-- 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in)
-- 📝 I regulary write articles at [https://www.gsavitha.in](https://www.gsavitha.in)
-- 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA**
- - 📫 Reach me at : mailto@gsavitha.in
-- 😄 Pronouns: **Savvy**
-- ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
+<!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator) -->
+<!-- - 🌱 I’m currently learning : **Node**
+- 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in) -->
+- 📝 Website: [https://gsavitha.in](https://gsavitha.in)
+- 😄 Pronouns: **She/her**
+<!-- - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
+<!-- - 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA** -->
+<!--  - 📫 Reach me at : mailto@gsavitha.in -->
 
 <!--
 ### 🛠 &nbsp;Tech Stack
