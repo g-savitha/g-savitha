@@ -62,11 +62,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React Fundamentals: Understanding JSX](https://www.gsavitha.in/posts/understanding-jsx/)
-- [React Fundamentals: Intro to Raw React APIs](https://www.gsavitha.in/posts/intro-to-raw-react-apis/)
-- [Async and Await](https://www.gsavitha.in/posts/async-await/)
-- [Asynchronous Code in Javascript](https://www.gsavitha.in/posts/async-code-in-js/)
-- [Promises Explained](https://www.gsavitha.in/posts/promises-explained/)
+- [Fixing Your Footer Position with Flexbox](https://gsavitha.in/posts/footer/)
+- [Feature Queries in Web Development](https://gsavitha.in/posts/feature-quries/)
+- [Execution Context Demystified](https://gsavitha.in/posts/exec-context/)
+- [JS Hard Parts Demystified: Introduction](https://gsavitha.in/posts/js-hard-parts/)
+- [React Fundamentals: Understanding JSX](https://gsavitha.in/posts/understanding-jsx/)
 <!-- BLOG-POST-LIST:END -->
 
 
