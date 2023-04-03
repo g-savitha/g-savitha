@@ -60,11 +60,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Your Footer Position with Flexbox](https://gsavitha.in/posts/footer/)
-- [Feature Queries in Web Development](https://gsavitha.in/posts/feature-quries/)
-- [Execution Context Demystified](https://gsavitha.in/posts/exec-context/)
-- [JS Hard Parts Demystified: Introduction](https://gsavitha.in/posts/js-hard-parts/)
-- [React Fundamentals: Understanding JSX](https://gsavitha.in/posts/understanding-jsx/)
+- [Fluid Grids](http://gsavitha.in/posts/fluid-grids/)
+- [How to enable dark theme in css](http://gsavitha.in/posts/css-theme-change/)
+- [Fixing Your Footer Position with Flexbox](http://gsavitha.in/posts/footer/)
+- [Feature Queries in Web Development](http://gsavitha.in/posts/feature-quries/)
+- [Execution Context Demystified](http://gsavitha.in/posts/exec-context/)
 <!-- BLOG-POST-LIST:END -->
 
 
