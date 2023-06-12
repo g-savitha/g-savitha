@@ -60,11 +60,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we skip the react import?](http://gsavitha.in/posts/skipping-react-import/)
+- [How I built an expenses tracker bot on telegram](http://gsavitha.in/posts/telegram-bot/)
 - [Fluid Grids](http://gsavitha.in/posts/fluid-grids/)
 - [How to enable dark theme in css](http://gsavitha.in/posts/css-theme-change/)
 - [Fixing Your Footer Position with Flexbox](http://gsavitha.in/posts/footer/)
-- [Feature Queries in Web Development](http://gsavitha.in/posts/feature-quries/)
-- [Execution Context Demystified](http://gsavitha.in/posts/exec-context/)
 <!-- BLOG-POST-LIST:END -->
 
 
