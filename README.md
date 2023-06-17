@@ -60,11 +60,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why can&#39;t we return Multiple JSX Elements](http://gsavitha.in/posts/return-multiple-jsx-elements/)
 - [Can we skip the react import?](http://gsavitha.in/posts/skipping-react-import/)
 - [How I built an expenses tracker bot on telegram](http://gsavitha.in/posts/telegram-bot/)
 - [Fluid Grids](http://gsavitha.in/posts/fluid-grids/)
 - [How to enable dark theme in css](http://gsavitha.in/posts/css-theme-change/)
-- [Fixing Your Footer Position with Flexbox](http://gsavitha.in/posts/footer/)
 <!-- BLOG-POST-LIST:END -->
 
 
