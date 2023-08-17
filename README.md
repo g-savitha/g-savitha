@@ -17,11 +17,11 @@
 
 
 
-<!-- - 🔭 I’m currently working on [github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator) -->
 <!-- - 🌱 I’m currently learning : **Node**
 - 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in) -->
 - 📝 Website: [https://gsavitha.in](https://gsavitha.in)
 - 😄 Pronouns: **She/her**
+- 🔭 I’m currently working on Quickbriefs - An AI summarising tool(working on the backend part of this app). I am building this in public. You can follow it [here.](https://twitter.com/gsavitha_)
 <!-- - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 <!-- - 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA** -->
 <!--  - 📫 Reach me at : mailto@gsavitha.in -->
