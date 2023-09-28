@@ -26,6 +26,9 @@
 <!-- - 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA** -->
 <!--  - 📫 Reach me at : mailto@gsavitha.in -->
 
+### Digital Badges
+
+[![An image of @gsavitha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gsavitha)](https://holopin.io/@gsavitha)
 <!--
 ### 🛠 &nbsp;Tech Stack
 
