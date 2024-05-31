@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in) -->
 - 📝 Website: [https://gsavitha.in](https://gsavitha.in)
 - 😄 Pronouns: **She/her**
-- 🔭 I’m currently learning Epic stack and also simultaneously solving problems on [greatFrontEnd](https://www.greatfrontend.com/). You can find the solutions at [greatFrontEnd-solutions](https://github.com/g-savitha/greatFrontEnd-solutions) 
+- 🔭 I’m currently learning Epic stack and Google Cloud Fundamentals
 <!-- - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 <!-- - 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA** -->
 <!--  - 📫 Reach me at : mailto@gsavitha.in -->
