@@ -63,11 +63,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking the useState hook](http://gsavitha.in/posts/the-usestate-hook/)
-- [Efficient Event handling in React](http://gsavitha.in/posts/react-events/)
-- [Why can&#39;t we return multiple JSX elements](http://gsavitha.in/posts/return-multiple-jsx-elements/)
-- [Can we skip the react import?](http://gsavitha.in/posts/skipping-react-import/)
-- [How I built an expenses tracker bot on telegram](http://gsavitha.in/posts/telegram-bot/)
+- [Build your own HTTP Server](https://gsavitha.in/posts/http-server/)
+- [Unpacking the useState hook](https://gsavitha.in/posts/the-usestate-hook/)
+- [Efficient Event handling in React](https://gsavitha.in/posts/efficient-event-handling-react/)
+- [Why can&#39;t we return multiple JSX elements](https://gsavitha.in/posts/return-multiple-jsx-elements/)
+- [Can we skip the react import?](https://gsavitha.in/posts/skip-react-imports/)
 <!-- BLOG-POST-LIST:END -->
 
 
