@@ -63,11 +63,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Config-Driven UI 📝](https://gsavitha.in/posts/config-driven-ui/)
 - [Implementing RBAC and ABAC in Node.js ☕️](https://gsavitha.in/posts/rbac-abac/)
 - [Build your own HTTP Server](https://gsavitha.in/posts/http-server/)
 - [Unpacking the useState hook](https://gsavitha.in/posts/the-usestate-hook/)
 - [Efficient Event handling in React](https://gsavitha.in/posts/efficient-event-handling-react/)
-- [Why can&#39;t we return multiple JSX elements](https://gsavitha.in/posts/return-multiple-jsx-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 
