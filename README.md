@@ -63,11 +63,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Did I build Bookmark GPT Pro](https://gsavitha.in/posts/bookmark-gpt-pro/)
 - [Config-Driven UI 📝](https://gsavitha.in/posts/config-driven-ui/)
 - [Implementing RBAC and ABAC in Node.js ☕️](https://gsavitha.in/posts/rbac-abac/)
 - [Build your own HTTP Server](https://gsavitha.in/posts/http-server/)
 - [Unpacking the useState hook](https://gsavitha.in/posts/the-usestate-hook/)
-- [Efficient Event handling in React](https://gsavitha.in/posts/efficient-event-handling-react/)
 <!-- BLOG-POST-LIST:END -->
 
 
