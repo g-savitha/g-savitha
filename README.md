@@ -63,7 +63,7 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Did I build Bookmark GPT Pro](https://gsavitha.in/posts/bookmark-gpt-pro/)
+- [🎯 SOLID Principles Aren&#39;t Just for Backend!](https://gsavitha.in/posts/36-solid-frontend/)
 - [Config-Driven UI 📝](https://gsavitha.in/posts/config-driven-ui/)
 - [Implementing RBAC and ABAC in Node.js ☕️](https://gsavitha.in/posts/rbac-abac/)
 - [Build your own HTTP Server](https://gsavitha.in/posts/http-server/)
