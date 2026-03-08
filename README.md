@@ -63,11 +63,11 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Caching Strategies to Prevent the Thundering Herd](https://gsavitha.in/posts/caching-strategies/)
+- [The Thundering Herd Problem](https://gsavitha.in/posts/thundering-herd/)
 - [Data Normalization in State Management](https://gsavitha.in/posts/data-normalization/)
 - [🎯 SOLID Principles Aren&#39;t Just for Backend!](https://gsavitha.in/posts/36-solid-frontend/)
 - [Config-Driven UI 📝](https://gsavitha.in/posts/config-driven-ui/)
-- [Implementing RBAC and ABAC in Node.js ☕️](https://gsavitha.in/posts/rbac-abac/)
-- [Build your own HTTP Server](https://gsavitha.in/posts/http-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
