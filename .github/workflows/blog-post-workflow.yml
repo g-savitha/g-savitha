@@ -1,19 +1,25 @@
 name: Latest blog post workflow
+
 on:
   push:
     branches: [master, main]
   schedule:
-    - cron: '0 0 * * 1' # Runs every monday at 00:00 UTC
+    - cron: '0 0 * * 1' # every Monday 00:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: '5'
           feed_list: 'https://gsavitha.in/rss.xml'
-          template: '$newline- [$title](https://gsavitha.in$link)$newline'
+          template: '$newline- [$title]($url)$newline'
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
