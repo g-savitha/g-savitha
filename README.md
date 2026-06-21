@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at [https://www.gsavitha.in](https://www.gsavitha.in) -->
 - 📝 Website: [https://gsavitha.in](https://gsavitha.in)
 - 😄 Pronouns: **She/her**
-- 🔭 I’m currently learning Epic stack and Google Cloud Fundamentals
+- 🔭 I’m currently learning Agentic AI
 <!-- - ⚡ Fun fact: **Green tea over coffee anyday. ✌** -->
 <!-- - 💬 Ask me anything about : **C, Java, Python, JS, react, node and DSA** -->
 <!--  - 📫 Reach me at : mailto@gsavitha.in -->
