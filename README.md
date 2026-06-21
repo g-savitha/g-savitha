@@ -63,11 +63,15 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching Strategies to Prevent the Thundering Herd](https://gsavitha.in/posts/caching-strategies/)
-- [The Thundering Herd Problem](https://gsavitha.in/posts/thundering-herd/)
-- [Data Normalization in State Management](https://gsavitha.in/posts/data-normalization/)
-- [🎯 SOLID Principles Aren&#39;t Just for Backend!](https://gsavitha.in/posts/36-solid-frontend/)
-- [Config-Driven UI 📝](https://gsavitha.in/posts/config-driven-ui/)
+- [How I Added a Text-to-Speech Audio Player to My Blog](https://gsavitha.in/blog/blog-audio-player/)
+
+- [Beyond the Context Window: How AI Tools Like Cursor Actually Remember You](https://gsavitha.in/blog/context-management-window/)
+
+- [Explaining Kafka like you&#39;re 5](https://gsavitha.in/blog/kafka-explained-like-you-are-5/)
+
+- [Behind the Scenes of Real Time Delivery Tracking System &lpar;Zomato-Inspired&rpar;](https://gsavitha.in/blog/real-time-delivery/)
+
+- [Caching Strategies to Prevent the Thundering Herd](https://gsavitha.in/blog/caching-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 
