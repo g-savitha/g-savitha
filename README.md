@@ -63,15 +63,15 @@
 ### :blue_book: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt caching: what the model keeps between your requests](https://gsavitha.in/blog/prompt-caching/)
+
+- [Making Coding Agents Trustworthy: Notes from Lauren Tan&#39;s Talk](https://gsavitha.in/blog/making-coding-agents-trustworthy/)
+
 - [The Two Sides of Building an AI Application](https://gsavitha.in/blog/two-sides-of-ai-engineering/)
 
 - [How I Added a Text-to-Speech Audio Player to My Blog](https://gsavitha.in/blog/blog-audio-player/)
 
 - [Beyond the Context Window: How AI Tools Like Cursor Actually Remember You](https://gsavitha.in/blog/context-management-window/)
-
-- [Explaining Kafka like you&#39;re 5](https://gsavitha.in/blog/kafka-explained-like-you-are-5/)
-
-- [Behind the Scenes of Real Time Delivery Tracking System &lpar;Zomato-Inspired&rpar;](https://gsavitha.in/blog/real-time-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 
